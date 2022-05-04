@@ -6,6 +6,8 @@ O app de wallet adiciona despesas pessoais em formato de diversas moedas mundiai
 
 ---
 
+![trybewallet](trybewallet.gif)
+
 # Habilidades
 
 Nesse projeto foi usado:
